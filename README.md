@@ -1,2 +1,2 @@
 # nodos
-Manejo de todos 
+Manejo de nodos
